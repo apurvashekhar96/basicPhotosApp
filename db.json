@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "name": "Faith Stiedemann",
+      "id": 12
+    },
+    {
+      "name": "Alexander Mayert",
+      "id": 13
+    },
+    {
+      "name": "Miss Kathy Hintz",
+      "id": 15
+    },
+    {
+      "name": "Jacqueline Dickinson",
+      "id": 16
+    },
+    {
+      "name": "Roberto Ankunding Sr.",
+      "id": 17
+    },
+    {
+      "name": "Ralph Crooks DVM",
+      "id": 18
+    },
+    {
+      "name": "Margaret Walsh III",
+      "id": 19
+    },
+    {
+      "name": "Valerie Shields",
+      "id": 20
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 17
+    },
+    {
+      "userId": 12,
+      "title": "Generic Granite Bike",
+      "id": 11
+    },
+    {
+      "userId": 12,
+      "title": "Luxurious Metal Cheese",
+      "id": 12
+    },
+    {
+      "userId": 17,
+      "title": "Handcrafted Steel Salad",
+      "id": 13
+    },
+    {
+      "userId": 17,
+      "title": "Rustic Steel Keyboard",
+      "id": 14
+    },
+    {
+      "userId": 18,
+      "title": "Awesome Fresh Bike",
+      "id": 15
+    },
+    {
+      "userId": 12,
+      "title": "Bespoke Plastic Car",
+      "id": 18
+    },
+    {
+      "userId": 12,
+      "title": "Electronic Soft Computer",
+      "id": 19
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=92661",
+      "id": 2
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=85631",
+      "id": 3
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=93299",
+      "id": 4
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=80326",
+      "id": 5
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=95489",
+      "id": 7
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=84006",
+      "id": 8
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=75015",
+      "id": 9
+    }
+  ]
+}
